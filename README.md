@@ -1,6 +1,6 @@
 # Money
 
-Simple library for money convertion
+Simple library for money convertion and work with different currencies. 
 
 # Installation
 Do the following steps:
